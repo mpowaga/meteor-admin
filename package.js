@@ -16,9 +16,9 @@ Package.on_use(function(api){
     'accounts-base',
     'accounts-password',
     'underscore',
-    'aldeed:simple-schema@0.7.0',
-    'aldeed:collection2@0.4.6',
-    'aldeed:autoform@0.17.1',
+    'aldeed:simple-schema@1.1.0',
+    'aldeed:collection2@2.0.0',
+    'aldeed:autoform@4.0.0',
     'alanning:roles@1.2.12',
     'raix:handlebar-helpers@0.1.2'
     ],
