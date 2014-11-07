@@ -11,7 +11,7 @@ Package.on_use(function(api){
   api.versionsFrom('METEOR@0.9.0')
 
   api.use(
-    ['iron:router@0.9.1',
+    ['iron:router@1.0.1',
     'coffeescript',
     'accounts-base',
     'accounts-password',
